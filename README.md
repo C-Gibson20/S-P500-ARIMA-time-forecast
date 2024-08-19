@@ -1,1 +1,1 @@
-# S-P500-ARIMA-time-forecast
+# S&P500 ARIMA Time Forecast
